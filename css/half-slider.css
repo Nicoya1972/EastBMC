@@ -1,0 +1,69 @@
+/*!
+ * Start Bootstrap - Half Slider (https://startbootstrap.com/template-overviews/half-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-half-slider/blob/master/LICENSE)
+ */
+
+body{
+	background-color: #ccc;
+
+}
+ .container {
+    background-color: #000;
+    width: 1140px;
+    margin-top: 20px;
+    color: #fff;
+}
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-left: 42px;
+    margin-top: 30PX;
+    background-color: #b30000;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+    width: 1140px;
+}
+
+.jumbotron {
+    color: #ff0000;
+    height: 100px;
+    background-image: url(../images/logotop.jpg) no-repeat;
+    top: 0; 
+    left: 0; 
+    background-color: #b30000;
+    margin-left: 42px;
+    width: 1140px;
+}
+.panel{
+	margin-top: 10px;
+	border: none;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #b30000;
+    text-align: center;
+    color: white;
+    border: none;
+}
+.panel-body{
+	background-color: #000;
+	font-family: 'Sofia';font-size: 15px;
+
+}
+.panel-footer {
+  background-color: #b30000;
+  text-align: center;
+  border: none;
+}
+.img-responsive{
+	width: 348px;
+	height: 210px;
+	
+	
+}
+
+.bg-1{
+	background-color: #b30000;
+}
